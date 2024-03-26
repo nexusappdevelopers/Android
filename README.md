@@ -1,4 +1,4 @@
-#Kotlin Codebase
+## Kotlin Codebase
 
 The primary goal of this project is to demonstrate the fundamental use of Kotlin with an MVVM architecture.
 
