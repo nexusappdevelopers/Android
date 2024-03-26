@@ -1,0 +1,19 @@
+<!--
+  ~ /*
+  ~  * @copyright : Nexus App Developers < https://www.nexusappdevelopers.com >
+  ~  * @author     : Elliot
+  ~  *
+  ~  * All Rights Reserved.
+  ~  * Proprietary and confidential :  All information contained herein is, and remains
+  ~  * the property of Nexus App Developers. and its partners.
+  ~  * Unauthorized copying of this file, via any medium is strictly prohibited.
+  ~  */
+  -->
+
+<resources>
+    <string name="app_name">KotlinMVVM</string>
+    <string name="empty_list">No Songs found!</string>
+    <string name="an_error_occurred">An error occurred</string>
+    <string name="something_went_wrong">Something went wrong</string>
+    <string name="success_msg">success</string>
+</resources>

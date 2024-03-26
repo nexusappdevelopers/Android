@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+  ~ /*
+  ~  * @copyright : Nexus App Developers < https://www.nexusappdevelopers.com >
+  ~  * @author     : Elliot
+  ~  *
+  ~  * All Rights Reserved.
+  ~  * Proprietary and confidential :  All information contained herein is, and remains
+  ~  * the property of Nexus App Developers. and its partners.
+  ~  * Unauthorized copying of this file, via any medium is strictly prohibited.
+  ~  */
+  -->
+
+<network-security-config>
+    <domain-config cleartextTrafficPermitted="true">
+        <domain includeSubdomains="true"></domain>
+    </domain-config>
+</network-security-config>
